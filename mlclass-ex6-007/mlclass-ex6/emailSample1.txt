@@ -1,0 +1,33 @@
+You've seen Mathematica in action, but I'd like to share with you 
+how the new cloud integration will help you utilize Mathematica 
+even more. I'm writing to personally invite you to our Virtual 
+Conference on November 13 and bring your attention to the 
+featured talk on Mathematica Online.
+
+Mathematica Online allows you to work on projects when you travel 
+or work from home, which can sometimes be difficult using 
+desktop-only software. Because Mathematica Online runs in any web 
+browser, you can access it on any laptop, desktop machine, 
+tablet, or other device with internet accessibility. With the 
+included cloud storage, you can easily start a project on your 
+desktop license and then continue working elsewhere in 
+Mathematica Online.
+
+Here's the specific talk information--it's part of conference 
+Track #1:
+An Introduction to Mathematica Online
+November 13, 1:30pm-2pm Eastern
+http://url.wolfram.com/2kck.elC/
+
+If you'd like to discuss how to get Mathematica Online or want 
+additional details on the talk, please don't hesitate to let me 
+know.
+
+Best,
+
+
+Katherine Bautista
+Senior Academic Program Manager
+Wolfram Research, Inc.
+katherine_bautista@wolfram.com
+http://www.wolfram.com
